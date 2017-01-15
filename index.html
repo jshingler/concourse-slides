@@ -608,6 +608,8 @@
             progress: true,
             history: true,
             center: true,
+            // Display the page number of the current slide
+            slideNumber: true,
 
             transition: 'slide', // none/fade/slide/convex/concave/zoom
 
@@ -622,8 +624,6 @@
               { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
             ]
           });
-            // Shows the slide number using default formatting
-            Reveal.configure({ slideNumber: true });
 
         </script>
     </body>
