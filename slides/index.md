@@ -4,7 +4,7 @@
 <img class="plain" src="resources/images/concourseci.jpg" style="width:128px;height:128px;"> </img>
 
 
-v0.2.0
+v0.2.1
 
  <aside class="notes">
    Heard of Concourse CI?
